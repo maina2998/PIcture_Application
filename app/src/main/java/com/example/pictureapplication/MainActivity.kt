@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         buildApiClient()
     }
     fun buildApiClient(){
-        var
+
     }
 }
